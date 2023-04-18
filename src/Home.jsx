@@ -1,3 +1,5 @@
+import Navbar from "./Nav"
+import Selector from "./Select_role"
 const mockEmployees = [
   {
     id: 0,
@@ -23,7 +25,9 @@ const Home = () => {
 
   return (
     <div>
-
+        <Navbar />
+        <h1>hello</h1>
+        <Selector/>
     </div>
   )
 }
