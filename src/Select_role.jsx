@@ -2,8 +2,8 @@
 const Selector = () => {
     return (
         <div>
-            <button>User home - Selector</button>
-            <button>Admin home - Selector</button>
+            <button href="">User home - Sector</button>
+            <button>Admin home - Sector</button>
         </div>
     )
 }

@@ -8,16 +8,20 @@ import "/Users/view/Documents/git-hub/reac_assesment/career-changer-react-assess
 import Home from './Home';
 import Selector from './Select_role';
 import Owner from './Owner';
+import Home_admin from './Home_admin';
+import Navbar from './Nav';
 
 const router = createBrowserRouter([
 {path: '/',
 element: <Home />},
 {path: '/Select_role',
 element: <Selector />},
+{path: '/Nav',
+element: <Navbar />},
 {path: '/Owner',
 element: <Owner />},
-// // {path: '/Error',
-// // element: <Error />}
+{path: '/Home_admin',
+element: <Home_admin />}
 
 ])
 
