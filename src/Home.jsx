@@ -26,7 +26,8 @@ const Home = () => {
   return (
     <div>
         <Navbar />
-        <h1>hello</h1>
+        <hr/>
+        <h1>Generation Thailand React - Assessment</h1>
         <Selector/>
     </div>
   )

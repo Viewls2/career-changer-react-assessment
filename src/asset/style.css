@@ -1,0 +1,36 @@
+.Navbar {
+
+    display: flex;
+    justify-content: end;
+    list-style-type: none;
+    background-color: lavender;
+    border-radius: 3%;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+}
+
+.Navbar a {
+    background-color: whitesmoke;
+    text-decoration: none;
+    border-radius: 5%;
+}
+
+.Navbar li {
+    margin: 10px;
+}
+
+.my_bio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: lavender;
+}
+
+.my_bio img {
+    border-radius: 5%;
+    border-color: red;
+
+}

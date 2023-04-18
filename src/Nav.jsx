@@ -1,10 +1,9 @@
 
 const Navbar = () => {
     return (
-        <ul>
+        <ul className="Navbar">
             <li><a href={'/'}>Home</a></li>
-            <li><a href={'/admin'}>Admin</a></li>
-
+            <li><a href={'/Owner'}>Owner</a></li>
         </ul>
     )
 }
