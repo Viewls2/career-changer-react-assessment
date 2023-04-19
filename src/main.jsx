@@ -4,7 +4,7 @@ import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
-import "/Users/view/Documents/git-hub/reac_assesment/career-changer-react-assessment/src/asset/style.css"
+import "./asset/style.css"
 import Home from './Home';
 import Selector from './Select_role';
 import Owner from './Owner';
