@@ -22,7 +22,7 @@ const Owner = () => {
         <hr/>
         <div className='my_bio'>
           <h1>View - Group A - 20</h1>
-          <img id="cat" src="src/asset/cat_img.jpg" alt="cat" width={'25%'} />
+          <img id="cat" src="https://github.com/Viewls2/career-changer-react-assessment/blob/main/src/asset/cat_img.jpg?raw=true" alt="cat" width={'25%'} />
           <h3><strong>Short Biography</strong></h3>
           <h3>Hi!!, my name is view</h3>
       </div>
